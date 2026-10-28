@@ -71,6 +71,23 @@ body {
   opacity: 0.5;
 }
 
+.message {
+  margin: 48px 0;
+  text-align: center;
+  color: #8a7366;
+}
+
+.message button {
+  margin-top: 8px;
+  padding: 8px 16px;
+  border: 0;
+  border-radius: 8px;
+  background: #3b2a22;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
 .badge {
   position: absolute;
   top: 24px;
